@@ -1,0 +1,3 @@
+# Brigs
+
+Brigs is a backlight setting service because xbacklight has this crazy 2 second delay before it actually works. Brigs, therefore, allows for ultra-smooth backlight scaling. Now that's quality.
