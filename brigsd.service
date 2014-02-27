@@ -1,0 +1,9 @@
+[Unit]
+Description=Brigs: Backlight Daemon
+
+[Service]
+Type=forking
+ExecStart=/vault/code/brigs/brigsd.sh
+
+[Install]
+WantedBy=multi-user.target
